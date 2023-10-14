@@ -4,10 +4,16 @@
     --secondary: #8CC641;
     --light: #F2F2F2;
     --dark: #272630;
+    --yelow: #ffe468
 }
 
 .text-primary{
     color: #1996d4 !important;
+}
+
+.titan-ul{
+    list-style: none;
+    color: #000;
 }
 
 .btn-secondary{
@@ -154,7 +160,7 @@
     margin-top: -50px;
     width: 100px;
     height: 100px;
-    color: var(--secondary);
+    color: var(--yelow);
     background: #FFFFFF;
     transform: rotate(-45deg);
 }
@@ -178,7 +184,7 @@
 
 .service-item:hover .service-icon div,
 .contact-item:hover .contact-icon div {
-    background: var(--secondary);
+    background: var(--yelow);
 }
 
 .service-item:hover .service-icon i,
