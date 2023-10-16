@@ -14,7 +14,8 @@
 
 .titan-ul{
     list-style: none;
-    color: #e5048a;
+    color: var(--dark);
+    font-weight: bold;
 }
 
 .btn-secondary{
