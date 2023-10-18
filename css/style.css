@@ -22,6 +22,10 @@
     background-color: #e5048a;
 }
 
+.bead{
+    color: #272630;
+}
+
 .btn {
     font-weight: 700;
     transition: .5s;
