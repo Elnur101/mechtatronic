@@ -129,6 +129,10 @@
     .bg-hero {
         background-size: cover;
     }
+    .cont-video{
+        background-size: cover;
+        margin-top: 30px;
+    }
 }
 
 .about-start,
