@@ -9,6 +9,11 @@
     --gray:  #c8c8c8;
 }
 
+.border-gray{
+    height: 95px;
+    color: #c8c8c8;
+}
+
 .gray{
     background-color: #c8c8c8;
     color: #000;
