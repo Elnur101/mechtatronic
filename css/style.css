@@ -6,7 +6,7 @@
     --dark: #272630;
     --yelow: #ffe468;
     --violet: #e5048a;
-    --gray:  #a0a0a0;
+    --gray:  #c8c8c8;
 }
 
 .gray{
@@ -240,7 +240,7 @@
     margin-top: -50px;
     width: 100px;
     height: 100px;
-    color: var(--yelow);
+    color: var(--dark);
     background: #FFFFFF;
     transform: rotate(-45deg);
 }
@@ -252,7 +252,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    background: var(--primary);
+    background: var(--gray);
     transition: .5s;
 }
 
