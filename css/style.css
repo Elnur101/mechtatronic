@@ -161,6 +161,19 @@
 
 }
 
+@media (max-width: 410px){
+    .cont-video{
+        background-size: cover;
+        width: 300px;
+    }
+
+    .cont-video video{
+        width: 350px;
+    }
+
+}
+
+
 @media (max-width: 400px){
     .cont-video{
         background-size: cover;
