@@ -6,6 +6,11 @@
     --dark: #272630;
     --yelow: #ffe468;
     --violet: #e5048a;
+    --gray:  #a0a0a0;
+}
+
+.gray{
+    background-color: #c8c8c8;
 }
 
 .text-primary{
