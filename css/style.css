@@ -149,6 +149,18 @@
 
 }
 
+@media (max-width: 502px){
+    .cont-video{
+        background-size: cover;
+        width: 300px;
+    }
+
+    .cont-video video{
+        width: 400px;
+    }
+
+}
+
 @media (max-width: 991.98px) {
     .bg-hero {
         background-size: cover;
