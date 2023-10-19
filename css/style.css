@@ -270,12 +270,12 @@
 
 .service-item:hover .service-icon div,
 .contact-item:hover .contact-icon div {
-    background: var(--yelow);
+    background: var(--dark);
 }
 
 .service-item:hover .service-icon i,
 .contact-item:hover .contact-icon i {
-    color: var(--primary);
+    color: var(--gray);
 }
 
 .service-item a.btn {
