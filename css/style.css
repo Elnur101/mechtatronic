@@ -18,6 +18,21 @@
     list-style: none;
 }
 
+.img-cont{
+    background-image: url(../img/quote.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;  
+}
+
+@media (max-width: 886px){
+    .img-cont{
+        background-size: contain;
+        background-position: center;
+    }
+}
+
+
+
 .gray{
     background-color: #c8c8c8;
     color: #000;
