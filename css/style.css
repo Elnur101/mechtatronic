@@ -64,7 +64,9 @@
 }
 
 .bead{
+    list-style: none;
     color: #272630;
+    font-weight: bold;
 }
 
 .btn {
