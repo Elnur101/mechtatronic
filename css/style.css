@@ -14,6 +14,10 @@
     color: #c8c8c8;
 }
 
+.text-violet{
+    color: var(--violet);
+}
+
 .russia{
     list-style: none;
 }
@@ -49,8 +53,10 @@
 
 .titan-ul{
     list-style: none;
-    color: var(--dark);
+    color: var(--violet);
     font-weight: bold;
+    text-shadow: 0 3px 9px #fff;
+    font-size: 18px;
 }
 
 .btn-secondary{
