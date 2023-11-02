@@ -28,6 +28,13 @@
     background-repeat: no-repeat;  
 }
 
+.img-cont-1{
+    background-image: url(../img/quote.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
 @media (max-width: 886px){
     .img-cont{
         background-size: contain;
