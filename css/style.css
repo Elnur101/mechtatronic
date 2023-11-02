@@ -426,6 +426,16 @@
     background-size: contain;
 }
 
+.bg-call-to-action-1{
+    background: url(../img/call-to-action-1.jpg) top right no-repeat;
+    background-size: contain;
+}
+
+.bg-call-to-action-2{
+    background: url(../img/call-to-action-2.jpg) top right no-repeat;
+    background-size: contain;
+}
+
 .bg-footer {
     background: url(../img/footer.jpg) center center no-repeat;
     background-size: contain;
