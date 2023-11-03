@@ -507,4 +507,10 @@
     }
 }
 
+@media(max-width: 1420px){
+    .cont-video video{
+        max-width: 420px;
+    }
+}
 
+@media(max-width: 1146)
