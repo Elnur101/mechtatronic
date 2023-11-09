@@ -513,4 +513,31 @@
     }
 }
 
-@media(max-width: 1146)
+@media(max-width: 1078px){
+    .cn{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    } 
+}
+
+@media(max-width: 1144px){
+    .cn{
+        display: flex;
+        flex-direction: column;
+    } 
+}
+
+@media(max-width: 1150px){
+    .cn{
+        display: flex;
+        flex-direction: column;
+    } 
+}
+
+@media(max-width: 1256px){
+    .cn{
+        display: flex;
+        flex-direction: column;
+    } 
+}
