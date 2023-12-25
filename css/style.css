@@ -264,25 +264,28 @@
 
 .service-item,
 .contact-item {
-    background: url(../img/service.jpg) top center no-repeat;
     background-size: cover;
     transition: .5s;
 }
 
+.service-item img{
+    width: 300px;
+}
+
 .service-item:hover,
 .contact-item:hover {
-    background: url(../img/service.jpg) bottom center no-repeat;
+    
     background-size: cover;
 }
 
 .service-item .service-icon,
 .contact-item .contact-icon {
-    margin-top: -50px;
-    width: 100px;
+    margin-top: 30px;
+    width: 333px;
     height: 100px;
     color: var(--dark);
     background: #FFFFFF;
-    transform: rotate(-45deg);
+    
 }
 
 .service-item .service-icon div,
@@ -292,7 +295,8 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    background: var(--gray);
+    background: var(--dark);
+    color: var(--gray);
     transition: .5s;
 }
 
